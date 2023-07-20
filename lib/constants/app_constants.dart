@@ -1,0 +1,1 @@
+// aqui ficariam as definições de cores do app
